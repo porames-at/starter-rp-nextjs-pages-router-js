@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in Next.js with Pages Router and JavaScript
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)]()
+[![Open example in codesandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/react-pdf-dev/starter-rp-nextjs-pages-router-js/main)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with Nextjs with Pages Router and JavaScript. It showcases how React PDF can be integrated and rendered as part of a Next.js project.
 
