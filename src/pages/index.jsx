@@ -1,6 +1,6 @@
 "use client";
 import { LazyAppPdfViewer } from "@/components/LazyAppPdfViewer";
-
+import {useState , useEffect} from "react";
 export default function Home() {
   const [ready, setReady] = useState(false);
 
