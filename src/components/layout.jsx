@@ -1,4 +1,3 @@
-"use client";
 import { LazyAppProviders } from "./LazyAppProviders";
 
 export default function RootLayout({ children }) {
